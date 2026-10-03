@@ -1,0 +1,6 @@
+{
+  "name": "5Store - Real-Time Multi-Device Shopping",
+  "description": "Online store for fashion, mobiles, electronics, and lifestyle with low-latency real-time synchronization, live stock, active viewers, instant order updates, and reviews across connected devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
